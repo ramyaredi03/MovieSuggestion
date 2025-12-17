@@ -11,7 +11,7 @@ Welcome to an AI-powered movie suggestion app that recommends films based on you
 
 ## 🚀 Demo
 
-🔥 **Try it live on Streamlit Cloud or Heroku** (Coming Soon)  
+🔥 **Try it live on Streamlit Cloud or Heroku**  
 🧪 Type a movie like `Inception` or `Avengers` to get intelligent recommendations.
 
 ---
@@ -59,31 +59,15 @@ Top recommendations:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ramyache10/MovieSuggestion.git
-cd MovieSuggestion
 
 # 2. Install dependencies
 pip install -r requirements.txt
 
 # 3. Run the app
 streamlit run app.py
-⚠️ Make sure to manually place .pkl files (like similarity.pkl) in the project root if not included due to GitHub's file size limit.
 
-🌐 Deployment Ready
-Deploy on:
 
-Heroku
 
-Streamlit Cloud
-
-Render
-
-Only requires pushing your repo and uploading .pkl files manually.
-
-🧑‍💻 Author
-Ramyasri Chapala
-🔗 LinkedIn
-📫 Email
 
 
 
